@@ -1,0 +1,11 @@
+# Never commit captures from commercial games
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.png
+*.jpg
+*.jpeg
+Original Snapshots/
+frames/
